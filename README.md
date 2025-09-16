@@ -1,4 +1,4 @@
-## Hi there 👋
+#### Hello word! I'M RobiNurJaman2006 👋
 
 <!--
 **RobiNurJaman2006/RobiNurJaman2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🏡 I'M come from city, [**Kuningan**](https://share.google/XbjG087tXY9u3R2lB)
+🧑‍💻 I’m currently learning, [**Laravel**](https://laravel.com)  
+🧑‍💻 I’m currently learning, [**python**](https://share.google/4aB40QeZXcDcqIkWh)
+🧑‍💻 I’m currently learning, [**figma**](https://share.google/ff9S27DmiMLzQiTxR)
+🧑‍💻 I’m currently learning, [**C++**](https://share.google/s1Je27MaNLKijBFca) Dan bahasa pemograman yang lainnya
+🧑‍💻 I’m currently learning, [**phpmyadmin**](https://share.google/JeRd51IpRfI9mlUC6)
