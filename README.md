@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 🏡 I'M come from city, [**Kuningan**](https://share.google/XbjG087tXY9u3R2lB)
 - 🧑‍💻 I’m go to school, [**Universitas Kuningan**](https://share.google/5ouggGEASLDhDiCOC)
-- ⚡ jurusan, [**SistemInformasi**](https://share.google/dRTtPYYHEJeX70n3M)
+- ⚡ Prodi, [**SistemInformasi**](https://share.google/dRTtPYYHEJeX70n3M)
 - saya ingin menjadi, [**data Scientist**]
 
 
