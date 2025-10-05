@@ -37,7 +37,13 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/RobiNurJaman2006/RobiNurJaman2006/blob/output/github-contribution-grid-snake.gif)
+
+![GitHub Snake Light](https://github.com/RobiNurJaman2006/RobiNurJaman2006/blob/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/RobiNurJaman2006/RobiNurJaman2006/blob/output/snake.svg#gh-dark-mode-only)
+
+
+
+
 
 
 
