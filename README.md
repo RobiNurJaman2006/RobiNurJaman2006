@@ -5,23 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-- 🏡 I'M come from city, [**Kuningan**](https://share.google/XbjG087tXY9u3R2lB)
-- 🧑‍💻 I’m currently learning, [**Laravel**](https://laravel.com)  
-- 🧑‍💻 I’m currently learning, [**python**](https://share.google/4aB40QeZXcDcqIkWh)
-- 🧑‍💻 I’m currently learning, [**figma**](https://share.google/ff9S27DmiMLzQiTxR)
-- 🧑‍💻 I’m currently learning, [**C++**](https://share.google/s1Je27MaNLKijBFca) Dan bahasa pemograman yang lainnya
-- 🧑‍💻 I’m currently learning, [**phpmyadmin**](https://share.google/JeRd51IpRfI9mlUC6)
 # 💫 About Me:
-data Scientist
+- 🏡 I'M come from city, [**Kuningan**](https://share.google/XbjG087tXY9u3R2lB)
+- 🧑‍💻 I’m go to school, [**Universitas Kuningan**](https://share.google/5ouggGEASLDhDiCOC)
+- ⚡ jurusan, [**SistemInformasi**](https://share.google/dRTtPYYHEJeX70n3M)
+- saya ingin menjadi, [**data Scientist**]
 
 
 ## 🌐 Socials:
